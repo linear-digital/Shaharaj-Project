@@ -7,4 +7,10 @@
     git config --global user.email "username@gmail.com"
 `
 ## Step 2
-git add README.md git add .
+`
+    git add README.md 
+`
+##
+`
+    git add .
+`
